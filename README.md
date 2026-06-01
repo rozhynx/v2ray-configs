@@ -34,6 +34,6 @@ This repository provides a regularly updated collection of V2Ray configurations 
 
 Use the subscription link below to import the latest available configurations into your client:
 
-`https://github.com/rozhynx/v2ray-configs/raw/refs/heads/main/SUB1.txt`
+`https://raw.githubusercontent.com/rozhynx/v2ray-configs/refs/heads/main/SUB1.txt`
 
 Configs are updated periodically to keep the list fresh and accessible.
