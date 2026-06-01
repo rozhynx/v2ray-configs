@@ -5,3 +5,9 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzNCBcdTA2MjJcdTA2N0VcdTA2
 
 
 vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.160:443?path=%2F%3Fed%3D80&security=tls&encryption=none&host=ssj.new-persian-song.ir&fp=chrome&type=ws&sni=ssj.new-persian-song.ir#%F0%9F%94%B5%40chillguy_vpn
+vless://55aa78f3-e427-4a71-b84b-a22774caffd7@yaali.parsclad.ir:8880?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=MBe57q0nIBZnepr0EkS1VPzKmYA_dCfvgMF-g5fXH10&sid=3682&spx=%2FlSf9QlWryWqrnIy&type=tcp&headerType=none#🔵rozhynx🔵
+vless://5b5d1892-73de-4ff1-993d-0b11fe125dc8@yaali.parsclad.ir:2053?encryption=none&fp=chrome&pbk=xm8ouPl9QpBOkEalG_K_7ncUcTSzJ_tK9d34V3c9RXo&security=reality&sid=b5&sni=www.google.com&spx=%2FsZ8I9PXke5hytsg&type=tcp#🔵rozhynx🔵
+vless://cd6300ad-08ba-46a0-97d2-ac4c4669b5c5@yaali.parsclad.ir:2053?encryption=none&fp=chrome&pbk=xm8ouPl9QpBOkEalG_K_7ncUcTSzJ_tK9d34V3c9RXo&security=reality&sid=dfb0f2ff7a488e97&sni=www.google.com&spx=%2FQMZ3tqh7Wo7fi0v&type=tcp#🔵rozhynx🔵
+vless://7b683814-4d14-40a7-802d-871e13b5f18d@yaali.parsclad.ir:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oHfyNlYcdRCevLSOpRb9lfSbBKPbfUMU_-Ck4v9swFc&security=reality&sid=3a&sni=www.nvidia.com&spx=%2FJR6l0IvFcUhbRLI&type=tcp#🔵rozhynx🔵
+vless://6d00f827-c6e2-4ed8-aa2f-c1c2fa30bef8@yaali.parsclad.ir:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nUJ7Q1Kz_-0JzjQMhbFLX8lLiPTN1bOiNUODm4pYBBA&security=reality&sid=329376a760267d70&sni=www.cloudflare.com&spx=%2F90jIK1Ntz4LCMI6&type=tcp#🔵rozhynx🔵
+vless://16c6367a-7be4-40b9-8a8a-62f987732acc@yaali.parsclad.ir:2052?encryption=none&security=reality&sni=www.amd.com&fp=chrome&pbk=qCe3OJk1UghjcMj5uO8jf7OOPI99jGqTwKkNk1kx_XU&sid=cb28b99a&spx=%2FfibMpnhDKObiqT8&type=tcp&headerType=none#🔵rozhynx🔵
