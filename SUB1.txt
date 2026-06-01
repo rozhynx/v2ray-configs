@@ -4,4 +4,4 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REQzNCBcdTA2MjJcdTA2N0VcdTA2
 
 
 
-
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.160:443?path=%2F%3Fed%3D80&security=tls&encryption=none&host=ssj.new-persian-song.ir&fp=chrome&type=ws&sni=ssj.new-persian-song.ir#%F0%9F%94%B5%40chillguy_vpn
