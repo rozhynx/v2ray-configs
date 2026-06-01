@@ -1,1 +1,39 @@
 # v2ray-configs
+
+# Free V2Ray Configs
+
+This repository provides a regularly updated collection of V2Ray configurations gathered from public sources.
+
+### Supported Protocols
+
+* VMess
+* VLESS
+* Trojan
+* TUIC
+* Shadowsocks
+* ShadowsocksR
+
+### Recommended Clients
+
+**Android**
+
+* v2rayNG
+
+**iOS**
+
+* Streisand
+* Fair VPN
+
+**Windows / Linux**
+
+* Nekoray
+* Hiddify Next
+* v2rayN
+
+### Subscription
+
+Use the subscription link below to import the latest available configurations into your client:
+
+`https://github.com/rozhynx/v2ray-configs/raw/refs/heads/main/SUB1.txt`
+
+Configs are updated periodically to keep the list fresh and accessible.
