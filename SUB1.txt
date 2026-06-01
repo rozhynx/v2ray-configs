@@ -106,3 +106,173 @@ vless://c5028183-96af-4b40-b362-12d46527c823@213.165.42.40:36985?security=realit
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net# @rozhynx
 
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@support.zoom.us.beichuan.serv00.net:9815?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F&security=&encryption=none&host=&type=ws&sni=# @rozhynx
+
+-----------------------------------------------**********------------------------------------
+
+
+
+
+
+
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.160:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D80&host=ssj.new-persian-song.ir&sni=ssj.new-persian-song.ir&fp=chrome&allowInsecure=0#🔵@rozhynx
+vless://31b07cd0-bb51-4036-9910-4c73aff1848d@185.143.233.122:443?encryption=none&type=ws&security=tls&path=%2Fav&sni=hvds2.piba82.ir&allowInsecure=0#🔵@rozhynx
+vmess://eyJhZGQiOiAiZGUuY29ubmZ1bGwub3JnIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICJmMmZmNGFlNi1jZjJkLTRkMTUtOWYwZC1iNmQ5OTgwZGY5YWEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjA1MyIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiOTUuMTc5LjE1OS4yMjIiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImM5YmRiOGM5LTk3YTQtNDFiZi04NjU5LTU4Nzg0YWMyMzRmMiIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyNjk2NiIsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://24d49ddd-67c1-4821-b5b9-f12107366978@151.101.3.147:80?encryption=none&security=none&type=xhttp&host=baharishomalyour-name.global.ssl.fastly.net&path=%2Fapi&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%220%22%7D#🔵@rozhynx
+vless://8ad2869d-1571-45cc-8d02-10aea6d600ac@45.130.125.160:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=partner.catchplay.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=partner.catchplay.com.cyylr.eu.cc#🔵@rozhynx
+vless://8ad2869d-1571-45cc-8d02-10aea6d600ac@45.130.125.76:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=partner.catchplay.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=partner.catchplay.com.cyylr.eu.cc#🔵@rozhynx
+vless://50628a33-a008-4d2f-b8a2-4d4122dddcd3@txt.irajapan.store:28561?type=tcp&encryption=none&security=reality&pbk=Oeqvti84_ZY-qSA3sQv4F7mc7-9eOwxw3oXDVtSOaRg&fp=chrome&sni=yahoo.com&sid=538dbb66ff&spx=%2F#🔵@rozhynx
+vless://b73836d8-dd3f-47ef-b784-300e443ad57e@fsxhh.fastshop1.com:443?mode=packet-up&path=%2Flizzard&security=tls&encryption=none&host=lizzard3.global.#🔵@rozhynx
+vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&host=graph.instagram.com.cyylr.eu.cc&type=ws&sni=graph.instagram.com.cyylr.eu.cc#🔵@rozhynx
+vless://b73836d8-dd3f-47ef-b784-300e443ad57e@fsxhh.fastshop1.com:443?mode=packet-up&path=%2Flizzard&security=tls&encryption=none&host=lizzard3.global.ssl.fastly.net&fp=firefox&type=xhttp&sni=global.fastly.com#🔵@rozhynx
+vless://b73836d8-dd3f-47ef-b784-300e443ad57e@fx3033.game2lizard.com:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=grm.lizardshop.org&fp=360&type=ws&sni=grm.lizardshop.org#🔵@rozhynx
+vless://46f65fb9-9700-41fe-a0cc-ca670a75192d@snapp.ir:80?path=%2Fvnet104MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray-MsV2ray%3Fed%3D2048&security=none&encryption=none&host=ff3.gsm10shop.com&type=ws#🔵@rozhynx
+vless://InternetAzadRobot@151.101.1.57:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/TignaliSWithYou&mode=auto#🔵@rozhynx
+vless://47422044-85e3-426b-b6c4-3588cb24a3e5@104.17.121.71:443?path=%2Fae-bo&security=tls&encryption=none&insecure=0&host=s.blibli.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=#🔵@rozhynx
+vless://e60f8ade-411b-4ceb-b3bd-2439676b4695@91.225.217.27:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=66I_EZijZ-HoERv8Xzmv5KydHjz4dp81Grb8CJpIy38&sid=cb89&type=tcp&headerType=none#🔵@rozhynx
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#🔵@rozhynx
+vless://5454343b-541b-4c96-8c2a-52e81079d124@51.44.16.107:31413?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=nMlxwhP34_5wFPscbso_hOfRDmsj9DonMpDSXUrnJR8&sid=ead3d6f82a9d&type=tcp&headerType=none#🔵@rozhynx
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.191:8443?mode=auto&path=%2F%3Fed%3D80&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssj.new-persian-song.ir#🔵@rozhynx
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#🔵@rozhynx
+vless://a44321b7-22ec-4255-bdb0-88a3e3b83668@ads04.vxmaxpro.online:443?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=b7b70c104ad267b8#🔵@rozhynx
+vless://6ace4058-24b4-4900-9772-ffb76e81b1de@varzesh3.com:2095?path=%2Fkaiser&security=none&encryption=none&host=kaiser6.zivoryx.ir&type=ws#🔵@rozhynx
+vless://559ab675-567f-4d61-a742-877bfd51d87c@188.114.97.6:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=zaintest.vuclip.com.cyylr.eu.cc&path=/in-do&sni=zaintest.vuclip.com.cyylr.eu.cc&fp=chrome#🔵@rozhynx
+vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=/id-tksi&sni=graph.instagram.com.cyylr.eu.cc&fp=chrome#🔵@rozhynx
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=%2F&security=tls&encryption=none&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&sni=sni.skylee4.cloudns.ch#🔵@rozhynx
+vless://c8f50ea7-f32a-4529-b4b9-03b3e2032a87@world.mobileemdad.top:443?mode=stream-up&path=%2Fcdcg%2Fchallengeplatform%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2210%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=zBTUlZ-OhoDwNezs4yDhPVu2a6P4t7x1v7LJQHUxdDc&fp=edge&type=xhttp&sni=world.mobileemdad.top&sid=af72619c#🔵@rozhynx
+vless://c8f50ea7-f32a-4529-b4b9-03b3e2032a87@185.143.235.200:2086?path=%2F&security=none&encryption=none&host=loveispain.movieda-farsi.ir&type=ws#🔵@rozhynx
+vmess://eyJhZGQiOiAiY2YtbHQuc2hhcmVjZW50cmUub25saW5lIiwgImFpZCI6IDAsICJob3N0IjogInVzLXN0LTIuc2hhcmVjZW50cmUub25saW5lIiwgImlkIjogIjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvc2hpcmtlciIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYWVzLTEyOC1nY20iLCAic25pIjogInVzLXN0LTIuc2hhcmVjZW50cmUub25saW5lIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAyfQ==
+vmess://eyJhZGQiOiAiYmxvZy52b2V3bC5jb20iLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiaG9zdCI6ICJibG9nLnZvZXdsLmNvbSIsICJpZCI6ICI3YTlmMDI2Zi1mN2E4LTQwY2EtZjJmOS0zYjM4MGMyODdjMGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FiYyIsICJwb3J0IjogIjQzODE1IiwgInBzIjogIlx1ZDgzZFx1ZGQzNUBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiY2cxYzE0LndhaW1hb2pkLmNvbSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYmU4ZTMxMzYtYjg3NC00MDg1LWJkMjMtZWMzNjk5MzAwNDkwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcGkvdjEvZ3JhcGhxbCIsICJob3N0IjogImNnMWMxNC53YWltYW9qZC5jb20iLCAidGxzIjogInRscyJ9
+vless://XAWol5rja+gxtpJkW5SN9o16X5ysuoNslWR5iZrd3kQfaJFrVN8Tnx8gAf7LI37OoZvRyjokiiyoin2AlMHMC7VTJWeAv4fuUaqBsPmTK6uyknqaedAWmQI9qDLF0loabMUM/AIC36vTOuCV+SNzuq4dfyr39v/kjcZhsSAECcsHO8Afng0287n+JlXnA6PMVOZuVY9vLMkpvaMIxOf1c8/xODfpUxW0+KJyKYryIRbdOgM7XNzpCpyJyvnOs2RDar#🔵@rozhynx
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2RcdWRkMzVAY2hpbGxndXlfdnBuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vless://8df10d83-3963-446d-a4e3-8bc043bda561@188.114.97.6:443?path=%2Fin-pdr&security=tls&encryption=none&host=space.byu.id.cyylr.eu.cc&type=ws&sni=space.byu.id.cyylr.eu.cc#🔵@rozhynx
+vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?encryption=none&type=tcp&headerType=none#🔵@rozhynx
+vless://285154f0-cbe8-45be-b57a-c7e53b6764c8@188.114.97.6:443?encryption=none&type=xhttp&security=tls&path=%2FTELEGRAM-ZEDMODEON&host=danco.lezzatcore.ir&mode=auto&sni=danco.lezzatcore.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1#🔵@rozhynx
+vless://baacd960-2601-4b33-aaf8-2395e5fc5af4@mci.com:443?encryption=none&type=ws&security=tls&path=%2Fid-tksi&host=grabacademyportal.grab.com.cyylr.eu.cc&sni=grabacademyportal.grab.com.cyylr.eu.cc&allowInsecure=0#🔵@rozhynx
+vless://dc5e82fd-9f20-4be4-abc0-0cafc4c1eaf7@mci.com:443?encryption=none&type=ws&security=tls&path=%2Fae-bo&host=support.zoom.us.cyylr.eu.cc&sni=support.zoom.us.cyylr.eu.cc&allowInsecure=0#🔵@rozhynx
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=octopusss4.com&fp=chrome&type=ws&sni=octopusss4.com#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@web.subster.ir:2053?security=tls&type=ws&headerType=&path=%2F&host=nazanMano.x-upload.org&sni=nazanMano.x-upload.org&fp=#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@bLiT3.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@amberpulse9.x-upload.org:2096?security=tls&type=ws&headerType=&path=%2F&host=amberpulse9.x-upload.org&sni=amberpulse9.x-upload.org&fp=#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@bLiT1.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@45.130.125.160:8443?security=tls&type=ws&headerType=&path=%2Fws&host=AfarinBeShoma.x-upload.org&sni=AfarinBeShoma.x-upload.org&fp=#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@208.103.161.1:2096?security=tls&type=ws&headerType=&path=%2F&host=bozoAzYeralTi.x-upload.org&sni=bozoAzYeralTi.x-upload.org&fp=#🔵@rozhynx
+vless://49e9da45-aecc-463b-abe7-abfed1d2086b@188.114.97.6:443?path=%2Fsg-orcl&security=tls&encryption=none&insecure=0&host=web.whatsapp.com.cyylr.eu.cc&t#🔵@rozhynx
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@194.76.155.12:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&fp=&pbk=mgIiNnujl3pahea0WW3bCFqmdwofldk85e9XD3rQcQc&security=reality&sid=d8d900&sni=www.vk.com&type=tcp#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@web.subster.ir:2083?security=tls&type=ws&headerType=&path=%2F%3Fed%3D2048&host=chikarmikoni.x-upload.org&sni=chikarmikoni.x-upload.org&fp=#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@bLiT2.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@45.130.125.76:2096?security=tls&type=ws&headerType=&path=%2F&host=KhoshAmadid.x-upload.org&sni=KhoshAmadid.x-upload.org&fp=#🔵@rozhynx
+vless://5dab8afa-bdc8-4ae6-8bfe-8b82aaba0cc7@51.195.99.254:80/?type=tcp&encryption=none&flow=#🔵@rozhynx
+vless://1379aed6-0a11-4533-97ee-f7df8026510a@auk.url-shorter.online:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&security=reality&pbk=NCNqme8sDO4TA0jitmR9v0FE9ZaELiNV2pmrY13ZK3I&sid=355d395e#🔵@rozhynx
+vless://c359d107-c1b1-4b71-811d-5040b898f2a7@fvpn.me:443/?type=ws&encryption=none&flow=&path=%2Fws&security=tls&fp=chrome#🔵@rozhynx
+vless://593f4d6c-aff1-4832-87a7-b5d8e71584ea@kz-1.nodes.ac:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kz-1.nodes.ac&fp=edge&security=reality&pbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&sid=73b4306eb38fe3d6#🔵@rozhynx
+vless://52ad04bc-eb90-4845-aae1-1f422522332f@162.159.253.41:8443?path=%2FRoBeRt&security=tls&encryption=none&insecure=0&host=interim.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=interim.adaspoloandco.com#🔵@rozhynx
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.126:8880?mode=gun&security=none&encryption=none&type=grpc#🔵@rozhynx
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=1&sni=octopusss4.com#🔵@rozhynx
+vless://b73836d8-dd3f-47ef-b784-300e443ad57e@fx3033.game2lizard.com:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=grm.lizardshop.org&path=/?ed%3D2560&sni=grm.lizardshop.org&fp=360#🔵@rozhynx
+vless://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=&encryption=none&headerType=none&type=tcp#🔵@rozhynx
+vless://ed2643e5-aed1-ce8a-d25c-e36ef06d360b@77.sultan7.site:2468?mode=auto&path=%2F&security=reality&encryption=none&pbk=2a1xJYuiUA1mgH8RpHEeUwFWCZyup0zlb6T7-Iv9bVA&fp=chrome&spx=%2F&type=xhttp&sni=google.com&sid=89#🔵@rozhynx
+vless://661f5954-7f13-4c5f-add8-a7c0b250aabd@snapp.ir:80?encryption=none&type=ws&path=%2Fws&host=gre.greentab.ir#🔵@rozhynx
+vless://0495bbdf-add5-425a-9662-53cb00949695@45.130.125.126:2096?encryption=none&type=grpc&security=tls&serviceName=asriran.com.irna.ir.tehrantimes.com.irna.ir.alef.ir.hamshahrionline.ir.khabaronline.ir&sni=HEAVeNLY-NEtwoRK12zOKESfU7.SAMsungovenS.iR&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#🔵@rozhynx
+vless://5dab8afa-bdc8-4ae6-8bfe-8b82aaba0cc7@51.195.99.254:80?security=&encryption=none&headerType=&type=tcp#🔵@rozhynx
+vless://b97c83f5-41bb-436f-ad83-3e849b673418@95.38.235.134:8080?authority=&encryption=none&security=none&serviceName=&type=grpc#🔵@rozhynx
+vless://5f225374-54c9-4945-91ea-a911b9384239@188.114.97.6:443?encryption=none&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws&host=graph.instagram.com.cyylr.eu.cc&path=%2Fmy-wbv#🔵@rozhynx
+vless://5671537e-ce80-4900-a0b8-ec3ddc75feac@snapp.ir:80?encryption=none&security=none&type=ws&path=%2F&host=s1.gozaresh-hajm.ir#🔵@rozhynx
+vless://0a335b4d-7a02-4989-a16d-424d265a6420@3.65.207.158:443?security=&encryption=none&headerType=none&type=tcp#🔵@rozhynx
+vless://8de40603-7364-4b29-86fd-b5b2364d5fc4@104.253.43.213:2086?path=%2Fvideo&security=&encryption=none&type=ws#🔵@rozhynx
+vless://6cf9c1df-884c-41f5-9f16-a34adb71cf6d@45.81.58.159:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=5baa50661dc6e45c.hozheen.ir#🔵@rozhynx
+vless://6cf9c1df-884c-41f5-9f16-a34adb71cf6d@31.43.179.111:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=0dcce096c41ea28d.hozheen.ir#🔵@rozhynx
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#🔵@rozhynx
+vless://0e9dd08d-e341-4c5d-b116-923842f5a9f9@188.114.97.6:443?encryption=none&security=tls&sni=web.whatsapp.com.cyylr.eu.cc&type=ws&host=web.whatsapp.com.cyylr.eu.cc&path=%2Fsg-melbi#🔵@rozhynx
+vless://6a8f6dc6-2a42-4a03-8047-e39ce6df3ec9@188.114.97.6:443?path=%2Fmy-wbv&security=tls&encryption=none&insecure=0&host=www.genflix.co.id.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=www.genflix.co.id.cyylr.eu.cc#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@45.130.125.160:8443?path=%2Fws&security=tls&encryption=none&insecure=0&host=AfarinBeShoma.x-upload.org&fp=chrome&type=ws&allowInsecure=0&sni=AfarinBeShoma.x-upload.org#🔵@rozhynx
+vless://373ba9b2-5cbc-4905-b28a-4ab7b919dd37@telewebion.com.kolman.com.de:443?hiddify=1&sni=cd1.serviceali.ir&type=xhttp&alpn=h2&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&host=cd1.serviceali.ir&encryption=none&fp=firefox&core=xray&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20obsidian%2F1.6.5%20Chrome%2F124.0.6367.243%20Electron%2F30.1.2%20Safari%2F537.36%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&headerType=none&allowInsecure=true&insecure=true&security=tls#🔵@rozhynx
+vless://09a2fa12-30d4-4f4b-8573-404c1ff695b7@panel.amiraliirx.shop:443?encryption=none&security=none&type=tcp#🔵@rozhynx
+vless://52ad04bc-eb90-4845-aae1-1f422522332f@173.245.59.191:8443?path=%2FRoBeRt&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=interim.adaspoloandco.com&fp=chrome&type=ws&sni=interim.adaspoloandco.com#🔵@rozhynx
+vless://cc752a3e-1537-4e86-bb50-1b897bf7b33c@104.19.229.21:443?path=%2Fsg-melbi&security=tls&encryption=none&host=cyylr.eu.cc&fp=chrome&type=ws&sni=cyylr.eu.cc#🔵@rozhynx
+vless://5f1aa934-07c0-4057-9b5c-53fc28022684@bLiT2.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#🔵@rozhynx
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#🔵@rozhynx
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🔵@rozhynx
+vless://8ecccb71-95ec-4a12-cbc5-ffc32c4d5ded@3.71.187.131:443?security=none&encryption=none&headerType=none&type=tcp#🔵@rozhynx
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@germ-node.datamove.online:2040?security=reality&encryption=none&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&headerType=none&fp=qq&spx=%2F&type=tcp&sni=tradingview.com&sid=53197c66aef53c44#🔵@rozhynx
+vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.216:443?security=reality&encryption=none&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=queuev4.vk.com&sid=a1b2c3d4e5f6#🔵@rozhynx
+vless://b8b8df14-c87f-41c3-86b8-9bf30eeb11ff@5.75.200.142:443?security=reality&encryption=none&pbk=pevfh90s1njkhxXqlEliTJdXMU5dw6TnlsfVUR8gxmY&headerType=none&fp=chrome&spx=%2FqxwFufKoT7Gn2q0&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=f2#🔵@rozhynx
+vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&insecure=0&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=graph.instagram.com.cyylr.eu.cc#🔵@rozhynx
+vless://55f7d143-a594-4a91-b030-f227039f85ef@79.127.196.11:8443?security=tls&alpn=h2&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=cdg-1.fromblancwithlove.com#🔵@rozhynx
+vless://5f1aa934-07c0-4057-9b5c-53fc28022684@bLiT1.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com#🔵@rozhynx
+vless://48083240-0059-4636-9092-a0dd611ed5b7@45.130.125.76:443/?type=ws&encryption=none&path=%2F&host=meh.dorostify.com&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=meh.dorostify.com#🔵@rozhynx
+vless://7f212d3f-5746-4e26-bc9f-14b0f8eb5f0b@188.114.97.6:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=eagle1.aixino.com&mode=auto&path=%2Fmasternet&security=tls&sni=eagle1.aixino.com&type=xhttp&x_padding_bytes=100-1000#🔵@rozhynx
+vless://4b0d11ca-07e3-4249-978a-819f28fd1bcd@bLiT3.hAmRaHcOrE.iR:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#🔵@rozhynx
+vless://06b65903-406d-4a41-8463-6fd5c0ee7798@64.186.240.9:8443?path=%2Fproxyip%3Dproxyip.cmliussss.net&security=tls&encryption=none&insecure=0&host=sn1.skylee5.cloudns.ch&fp=chrome&type=ws&allowInsecure=0&sni=sn1.skylee5.cloudns.ch#🔵@rozhynx
+vless://1f951937-38f9-4d24-a748-b7832d08f2f9@web.subster.ir:2053?security=tls&type=ws&headerType=&path=%2F&host=nazanMano.x-upload.org&sni=nazanMano.x-upload.org&fp=#🔵@rozhynx
+vless://1f951937-38f9-4d24-a748-b7832d08f2f9@208.103.161.1:2096?security=tls&type=ws&headerType=&path=%2F&host=bozoAzYeralTi.x-upload.org&sni=bozoAzYeralTi.x-upload.org&fp=#🔵@rozhynx
+vless://1f951937-38f9-4d24-a748-b7832d08f2f9@45.130.125.76:2096?security=tls&type=ws&headerType=&path=%2F&host=KhoshAmadid.x-upload.org&sni=KhoshAmadid.x-upload.org&fp=#🔵@rozhynx
+vless://e2f4ba49-dc95-4df4-b1d0-93025d196091@forallpanel.srtongston.ir:2052?path=%2F&security=none&encryption=none&host=abol2.srtongston.ir&type=httpupgrade#🔵@rozhynx
+vless://InternetAzadRobot@151.101.1.57:80?mode=auto&path=%2Flogin&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&type=xhttp#🔵@rozhynx
+vless://74efe911-4e11-44ac-b9a8-c8b4caf42ea7@185.177.239.95:14793?security=reality&encryption=none&pbk=LL5elMmIL4PZMio6uuBGuZoToOURQdGqnaL8-aIyFAw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=26adc84e61c1#🔵@rozhynx
+vless://bf116897-eca4-459c-9f97-4019fa0ace7f@162.159.253.41:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&sni=focalin.adaspoloandco.com&host=focalin.adaspoloandco.com&path=%2FRizZrAcK&fp=chrome#🔵@rozhynx
+vless://e122cfd0-0197-46c7-b4a9-ba9891c9eff7@172.67.74.10:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fadmin.php&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ratatouille.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=ratatouille.adaspoloandco.com#🔵@rozhynx
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiYXptb25vbmxpbmUua29ua3VyaXJhbi5zYnMiLCAicG9ydCI6ICIyMDgwIiwgImlkIjogImNkNjgyMzAyLWM5ZDctNGMwZC1iYWRhLTUyZTdkNjUyYzIyYyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjE1In0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAidjEwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODA3IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJ2MTAuaGRhY2QuY29tIiwgInRscyI6ICIifQ==
+vless://e2b5906e-1dcb-4a19-a482-bdb0cc513b43@23.106.46.230:2095?path=%2Ftelegram-appxa&security=none&encryption=none&host=23.106.46.230&type=ws#🔵@rozhynx
+vless://15ac0441-6004-4e4f-ba11-c59481e5e445@104.17.121.71:443?encryption=none&security=tls&sni=vp2.fazelino.lol&fp=chrome&allowInsecure=1&type=ws&host=vp2.fazelino.lol&path=%2Fws#🔵@rozhynx
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🔵@rozhynx
+vless://f8ab53cd-8ef6-4e46-bcda-71f42b982121@85.133.227.253:49124?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F@Beraghsa@Beraghsa@Beraghsa@Beraghsa@Beraghsa@Beraghsa@Beraghsa&pbk=nbONkvFY6sSV1KfTTqVOl9tJk6Un-sJob6-t18QidCQ&security=reality&sid=8526d6&sni=aparat.com&spx=%2F47agcCxvTIoW4DO&type=xhttp&x_padding_bytes=100-1000#🔵@rozhynx
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#🔵@rozhynx
+vless://49a1f3bc-e9a8-4807-a195-e5c4f627ad15@199.232.78.160:443?security=tls&type=xhttp&headerType=&path=%2F&host=ring.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%2C+%22xmux%22%3A+%7B%22cMaxLifetimeMs%22%3A+0%2C+%22cMaxReuseTimes%22%3A+%2264-128%22%2C+%22maxConcurrency%22%3A+%2216-32%22%2C+%22maxConnections%22%3A+0%2C+%22hKeepAlivePeriod%22%3A+0%2C+%22hMaxRequestTimes%22%3A+%22800-900%22%7D%7D&sni=speedtest.net&fp=chrome&alpn=h2&allowInsecure=1#🔵@rozhynx
+vless://12cb0a24-0438-4980-8617-9c93205895fa@104.18.151.251:443?encryption=none&security=tls&sni=kakoolnews.koookooool.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=kakoolnews.koookooool.workers.dev&path=%2F#🔵@rozhynx
+vless://12cb0a24-0438-4980-8617-9c93205895fa@164.90.192.188:8443?encryption=none&security=tls&sni=kakoolnews.koookooool.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=kakoolnews.koookooool.workers.dev&path=%2F#🔵@rozhynx
+vless://74efe911-4e11-44ac-b9a8-c8b4caf42ea7@185.177.239.95:14793?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LL5elMmIL4PZMio6uuBGuZoToOURQdGqnaL8-aIyFAw&security=reality&sid=26adc84e61c1&sni=www.sony.com&type=tcp#🔵@rozhynx
+vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443?encryption=none&fp=&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ&security=reality&sid=e9a8&sni=yahoo.com&type=tcp#🔵@rozhynx
+vless://fedbed70-4dcc-4780-badc-addca59b1736@tr3.mynethub99.top:2096?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=tr3.mynethub99.top&type=tcp#🔵@rozhynx
+vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?allowInsecure=1&encryption=none&host=69565ce3109804e7813f98ee.mmdbay.blog&path=%2Fgraphql&security=tls&sni=69565ce3109804e7813f98ee.mmdbay.blog&type=ws#🔵@rozhynx
+vless://1379aed6-0a11-4533-97ee-f7df8026510a@auk.url-shorter.online:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NCNqme8sDO4TA0jitmR9v0FE9ZaELiNV2pmrY13ZK3I&security=reality&sid=355d395e&sni=m.vk.ru&type=tcp#🔵@rozhynx
+vless://6986ac20-af56-4657-babd-552bb4e57aa9@89.185.81.123:443?encryption=none&fp=&pbk=256_nhGBxahWpHUBAQUN-MkS58XedIAc6glz0b-bjx0&security=reality&sid=bf05&sni=yahoo.com&type=tcp#🔵@rozhynx
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@riga-node.datamove.online:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#🔵@rozhynx
+vless://bd9584ed-6585-41a1-a91b-7c8e40efe5d5@snapp.ir:2095?path=%2Frat&security=&encryption=none&host=rat.skycmd.org&type=ws#🔵@rozhynx
+vless://60293635-a048-4732-a52f-1d393063dd22@fsxhh.fastshop1.com:443?mode=packet-up&path=%2Fmammadalifsx&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=wizthings.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#🔵@rozhynx
+vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&host=graph.instagram.com.cyylr.eu.cc&fp=chrome&type=ws&sni=graph.instagram.com.cyylr.eu.cc#🔵@rozhynx
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.168:8443?type=xhttp&security=tls&encryption=none&sni=cp.iran-shope.ir&alpn=h2&fp=chrome&allowInsecure=1&path=%2F%3Fed%3D80&mode=auto&xpaddingbytes=100-1000#🔵@rozhynx
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDM1QGNoaWxsZ3V5X3ZwbiIsICJhZGQiOiAiODIuMTk4LjI0Ni4yMzMiLCAicG9ydCI6ICIxODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
+vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🔵@rozhynx
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=octopusss4.com&fp=chrome&allowinsecure=0&type=ws&sni=octopusss4.com#🔵@rozhynx
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260# @rozhynx
+
+vless://f8ab53cd-8ef6-4e46-bcda-71f42b982121@85.133.227.253:49124?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F@Beraghsa@Beraghsa@Beraghsa@Beraghsa@Beraghsa@Beraghsa@Beraghsa&pbk=nbONkvFY6sSV1KfTTqVOl9tJk6Un-sJob6-t18QidCQ&security=reality&sid=8526d6&sni=aparat.com&spx=%2F47agcCxvTIoW4DO&type=xhttp&x_padding_bytes=100-1000# @rozhynx
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=%2F&security=tls&encryption=none&echfq=none&host=sni.111000.v6.navy&allowinsecure=0&type=ws&sni=sni.111000.v6.navy# @rozhynx
+
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&echfq=none&host=2026.hhhhh.eu.org&fp=chrome&allowinsecure=0&type=ws&sni=2026.hhhhh.eu.org# @rozhynx
+
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.17.72.206:443?path=%2F222.167.202.31%3A744...&security=tls&encryption=none&echfq=none&host=2026.hhhhh.eu.org&allowinsecure=1&type=ws&sni=2026.hhhhh.eu.org# @rozhynx
+
+vless://49a1f3bc-e9a8-4807-a195-e5c4f627ad15@199.232.78.160:443?security=tls&type=xhttp&headerType=&path=%2F&host=ring.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%2C+%22xmux%22%3A+%7B%22cMaxLifetimeMs%22%3A+0%2C+%22cMaxReuseTimes%22%3A+%2264-128%22%2C+%22maxConcurrency%22%3A+%2216-32%22%2C+%22maxConnections%22%3A+0%2C+%22hKeepAlivePeriod%22%3A+0%2C+%22hMaxRequestTimes%22%3A+%22800-900%22%7D%7D&sni=speedtest.net&fp=chrome&alpn=h2&allowInsecure=1# @rozhynx
+
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.147.255:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws# @rozhynx
+
+vless://5f1aa934-07c0-4057-9b5c-53fc28022684@bLiT2.hAmRaHcOrE.iR:719?security=none&type=ws&headerType=&path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&host=play.google.com# @rozhynx
+
+vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp# @rozhynx
+
+vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com# @rozhynx
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080# @rozhynx
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjQ3JNV0RXS2J6OWNCaEhFbDZBN3J3QlhwYUtreTkxNUZUUnUxcQ@170.130.40.123:41352# @rozhynx
+
+vless://997b5119-c015-4203-b402-0eb0f60b77c3@204.168.234.22:80?security=none&type=ws&path=%2Fws&sni=nobody.fastspeed.ir# @rozhynx
+
+vless://70332c0f-907f-46cc-bd9b-8e459a571bee@45.130.125.168:8443?type=xhttp&security=tls&encryption=none&sni=cp.iran-shope.ir&alpn=h2&fp=chrome&allowInsecure=1&path=%2F%3Fed%3D80&mode=auto&xpaddingbytes=100-1000# @rozhynx
+
+vless://f0ea76e9-c3c4-4e2c-b2f9-a97d65cc2907@193.203.10.86:443?security=reality&type=tcp&sni=yahoo.com&fp=chrome&sid=8735&pbk=_XwzsH6EuV-UnQbXblD4XK46wxaWQcF-0GQ-nAkj3Xo&encryption=none# @rozhynx
+
+vless://695a39ee-9cd1-49b7-ab98-ed201a285c92@172.67.74.224:2053?path=%2Fdashfair%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=dancingwithourhandstied.fairit.ir&type=ws&allowInsecure=0&sni=457ac2b304c1be49.fairit.ir# @rozhynx
+
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.98.0:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws# @rozhynx
+
+vless://9e23b551-7f3e-4ea1-82c1-f1e7373ca50e@18.165.198.193:443?path=%2Fwss%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=d2ub2z0egcsafu.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=d2ub2z0egcsafu.cloudfront.net# @rozhynx
+
+vless://f8ab53cd-8ef6-4e46-bcda-71f42b982121@85.133.227.253:49124?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F@Beraghsa@Beraghsa@Beraghsa@Beraghsa@Beraghsa@Beraghsa@Beraghsa&pbk=nbONkvFY6sSV1KfTTqVOl9tJk6Un-sJob6-t18QidCQ&security=reality&sid=8526d6&sni=aparat.com&spx=%2F47agcCxvTIoW4DO&type=xhttp&x_padding_bytes=100-1000# @rozhynx
+
+vless://e2f4ba49-dc95-4df4-b1d0-93025d196091@forallpanel.srtongston.ir:2052?path=%2F&security=none&encryption=none&host=abol2.srtongston.ir&type=httpupgrade# @rozhynx
