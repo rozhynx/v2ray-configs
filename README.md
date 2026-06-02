@@ -28,7 +28,7 @@ This repository provides a regularly updated collection of V2Ray configurations 
 * Hiddify Next
 * v2rayN
 
-### Subscription
+### 🔷🔷Subscription🔷🔷
 
 Use the subscription link below to import the latest available configurations into your client:
 ```
