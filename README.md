@@ -9,8 +9,6 @@ This repository provides a regularly updated collection of V2Ray configurations 
 * VMess
 * VLESS
 * Trojan
-* TUIC
-* Shadowsocks
 * ShadowsocksR
 
 ### Recommended Clients
