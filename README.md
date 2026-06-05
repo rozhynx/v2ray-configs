@@ -31,7 +31,13 @@ This repository provides a regularly updated collection of V2Ray configurations 
 ### 🔷🔷Subscription🔷🔷
 
 Use the subscription link below to import the latest available configurations into your client:
+
+🔷SUB1🔷:
 ```
 https://raw.githubusercontent.com/rozhynx/v2ray-configs/refs/heads/main/SUB1.txt
+```
+🔷SUB2🔷(کانفیگ های جمع آوری شده):
+```
+https://raw.githubusercontent.com/rozhynx/v2ray-configs/refs/heads/main/SUB2
 ```
 Configs are updated periodically to keep the list fresh and accessible.
